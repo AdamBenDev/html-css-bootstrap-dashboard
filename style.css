@@ -41,3 +41,24 @@ aside{
 .main{
     width: calc(100% - 150px);
 }
+
+.my-opasity{
+    background-color: var(--my-opasity);
+}
+
+.my-icon-input{
+    background: url(.//img/icons8-search.svg) no-repeat scroll 0 0 var(--my-gray);
+    padding-left: 10px;
+}
+
+.my-bell{
+    color: var(--my-bell);
+}
+
+.bg-my-primary{
+    background-color: var(--my-primary);
+}
+
+.my-gray-main{
+    background-color: var(--my-gray-main);
+}
