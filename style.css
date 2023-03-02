@@ -62,3 +62,29 @@ aside{
 .my-gray-main{
     background-color: var(--my-gray-main);
 }
+
+.my-gray-main{
+    background-color: var(--my-gray-main);
+}
+.color-icon-main{
+    background-color: var(--color-icon-main);
+}
+.green{
+    background-color: #198755;
+    font-size: 12px;
+}
+.yellow{
+    background-color :rgb(219 167 10);
+    font-size: 12px;
+}
+.red{
+    background-color: #dc3545;
+    font-size: 12px;
+}
+.fs-12{
+    font-size: 12px;
+}
+.hover:hover{
+    background-color: rgb(196, 196, 196);
+    color: white;
+}
