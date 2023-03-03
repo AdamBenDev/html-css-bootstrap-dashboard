@@ -44,6 +44,7 @@ aside{
 
 .my-opasity{
     background-color: var(--my-opasity);
+    border-radius: 20px;
 }
 
 .my-icon-input{
