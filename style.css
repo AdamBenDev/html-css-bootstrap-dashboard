@@ -28,6 +28,8 @@ header{
 .my-gray-dark{
     color: var(--my-gray-dark);
 }
+
+
 .app{
     height: calc(100vh - 60px);
 }
@@ -48,7 +50,7 @@ aside{
 }
 
 .my-icon-input{
-    background: url(.//img/icons8-search.svg) no-repeat scroll 0 0 var(--my-gray);
+    background: url(.//img/icons8-search.svg) no-repeat scroll 7px 10px var(--my-gray);
     padding-left: 10px;
 }
 
@@ -95,5 +97,9 @@ aside{
     
     aside{
         width: 70px;
+    }
+
+    .main{
+        width: calc(100% - 70px);
     }
 }
