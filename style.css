@@ -89,3 +89,11 @@ aside{
     background-color: rgb(196, 196, 196);
     color: white;
 }
+
+/*****MEDIA QUERY*****/
+@media screen and (max-width:992px){
+    
+    aside{
+        width: 70px;
+    }
+}
